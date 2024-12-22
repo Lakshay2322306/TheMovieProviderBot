@@ -30,7 +30,7 @@ CODE = (environ.get('CODE', 'https://telegra.ph/file/72f425007b22d28bd935e.jpg')
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'http://shortxlinks.com'))
-STREAM_API = (environ.get('STREAM_API', '232bab9ce253c4913085f9e879ad95f216c4c525'))
+STREAM_API = (environ.get('STREAM_API', '7583721555:AAFdO7sXq9j6pIXXSLvFJkYSzWgQ1Fo9Gw4'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Shortxlinks/7'))
 
 # Admins, Channels & Users
